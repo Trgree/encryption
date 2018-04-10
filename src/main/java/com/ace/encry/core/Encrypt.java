@@ -39,7 +39,7 @@ public class Encrypt {
 			}
 		} else {
 			printDesc();
-			test();
+			//test();
 		}
 
 	}
